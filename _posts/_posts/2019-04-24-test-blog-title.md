@@ -1,4 +1,4 @@
 ---
-title: "Test Blog post"
-date: "2019-04-24"
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
 ---
